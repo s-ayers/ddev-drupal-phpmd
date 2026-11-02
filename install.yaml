@@ -1,0 +1,6 @@
+name: ddev-phpmd
+
+project_files:
+  - commands/web/phpmd
+
+ddev_version_constraint: '>= v1.24.6'
